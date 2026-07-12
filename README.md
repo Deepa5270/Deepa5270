@@ -123,6 +123,22 @@ Analyzes bank loan applications, funding & risk — schema design to advanced wi
 
 <br/>
 
+## 🗂️ Profile Summary Cards
+
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/main/profile-summary-card-output/dracula/0-profile-details.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/main/profile-summary-card-output/dracula/1-repos-per-language.svg"/>
+</div>
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/main/profile-summary-card-output/dracula/2-most-commit-language.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/main/profile-summary-card-output/dracula/3-stats.svg"/>
+</div>
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/main/profile-summary-card-output/dracula/4-productive-time.svg"/>
+</div>
+
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
