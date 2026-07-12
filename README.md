@@ -128,31 +128,10 @@ Analyzes bank loan applications, funding & risk — schema design to advanced wi
 
 <br/>
 
-## 🗂️ Profile Summary Cards
-
-<div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/0-profile-details.svg"/>
-<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/1-repos-per-language.svg"/>
-</div>
-<div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/2-most-commit-language.svg"/>
-<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/4-productive-time.svg"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepa5270&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br/>
