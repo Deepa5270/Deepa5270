@@ -119,11 +119,24 @@ Analyzes bank loan applications, funding & risk — schema design to advanced wi
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepa5270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepa5270&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Deepa5270&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa5270&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🗂️ Profile Summary Cards
+
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/0-profile-details.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/1-repos-per-language.svg"/>
+</div>
+<div align="center">
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/2-most-commit-language.svg"/>
+<img width="49%" src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/profile-summary-cards-output/github_dark/4-productive-time.svg"/>
 </div>
 
 <br/>
