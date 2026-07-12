@@ -118,12 +118,7 @@ Analyzes bank loan applications, funding & risk — schema design to advanced wi
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepa5270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=Deepa5270&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa5270&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
