@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Deepa%20Prajapati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Turning%20Data%20Into%20Decisions&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deepa-prajapati-b16014345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:deepaprajapati1228@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 
@@ -17,11 +16,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 [Your degree — e.g. B.Tech in CSE, Your College, Year]
+- 🎓 B.Tech in **Metallurgical and Materials Engineering**, National Institute of Technology (NIT) Rourkela
 - 💼 I work across the **full data pipeline** — from SQL queries and BI dashboards to trained models deployed as live web apps
 - 🔭 Currently building: end-to-end ML systems with real deployment (Flask/FastAPI/Docker)
 - 🌱 Learning: [fill in what's actually true — e.g. MLOps, cloud deployment, LLM fine-tuning]
-- ⚡ Fun fact: [optional — one line, keep it human]
+- 📫 Reach me: **deepaprajapati1228@gmail.com**
 
 <br/>
 
@@ -129,10 +128,24 @@ Analyzes bank loan applications, funding & risk — schema design to advanced wi
 
 <br/>
 
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepa5270&theme=react-dark&hide_border=true&area=true"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Deepa5270/Deepa5270/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<br/>
+
 <div align="center">
 
 ### 📫 Open to Data Analyst / ML Engineer roles — let's connect!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
